@@ -80,6 +80,11 @@ How to Run:
 5.	Open the notebook using Jupyter Notebook.
 6.	Run the notebook cells.
 
+About Me
 
+Hi! I'm Zareen Siddiqui, a B.Tech Information Technology graduate passionate about Data Analytics and solving real-world problems using data.
+I have hands-on experience with Python, SQL, Excel, and data visualisation.
+I'm continuously learning and building practical projects to strengthen my analytical and technical skills.
+My goal is to start my career as a Data Analyst and turn data into meaningful business insights.
 
 
