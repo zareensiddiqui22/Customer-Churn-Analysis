@@ -1,16 +1,19 @@
 Customer Churn Analysis Using Python
 
 Project Overview:
+
 Customer churn refers to customers discontinuing a company's services. Understanding why customers leave is important for businesses because retaining existing customers can improve customer relationships and business performance.
 In this project, I analysed the IBM Telco Customer Churn dataset using Python to identify customer churn patterns, explore customer behaviour and generate actionable business insights.
 
 Dataset Overview:
+
 •	Total Records: 7,043 customers
 •	Total Columns: 21
 •	Target Variable: Churn
 •	Analysis Type: Exploratory Data Analysis (EDA)
 
 Tools and Technologies:
+
 1.	Python
 2.	Jupyter Notebook
 3.	Pandas
@@ -19,6 +22,7 @@ Tools and Technologies:
 6.	Seaborn
 
 Project Workflow:
+
 •	Data Loading and Inspection
 •	Data Cleaning and Preprocessing
 •	Missing Value and Duplicate Checking
@@ -32,6 +36,7 @@ Project Workflow:
 
 
 Key Findings:
+
 •	Overall customer churn rate: 26.54%.
 •	Month-to-month contract customers show a substantially higher churn rate than long-term contract customers.
 •	Senior citizens have a higher churn rate than non-senior citizens.
@@ -40,6 +45,7 @@ Key Findings:
 •	Electronic Check users show a higher churn rate than users of other payment methods.
 
 Visualizations:
+
 •	Overall Customer Churn
 •	Churn by Contract
 •	Churn by Tenure
@@ -48,6 +54,7 @@ Visualizations:
 •	Churn by Payment Method
 
 Business Recommendations:
+
 1.	Improve onboarding and support for newly joined customers.
 2.	Encourage customers to choose long-term contracts.
 3.	Improve customer experience for Fiber Optic internet users.
@@ -56,9 +63,11 @@ Business Recommendations:
 6.	Develop targeted retention strategies for high-risk customer segments.
 
 Conclusion
+
 This project demonstrates the use of Python for data cleaning, exploratory data analysis and data visualization. The findings help identify customer segments associated with higher churn and provide business recommendations to support customer retention.
 
 Skills Demonstrated:
+
 Python | Pandas | NumPy | Matplotlib | Seaborn | Data Cleaning | EDA | Statistical Analysis | Data Visualization | Business Insights
 
 
